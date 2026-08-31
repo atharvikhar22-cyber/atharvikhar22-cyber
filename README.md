@@ -97,7 +97,7 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `Python` • `JavaScript (ES6+)` • `TypeScript` • `HTML5` • `CSS3` |
+| **Languages** | `Python` • `JavaScript` • `TypeScript` • `HTML` • `CSS` |
 | **Frontend** | `React.js` • `Next.js` • `Tailwind CSS` • `Redux Toolkit` |
 | **Backend** | `Node.js` • `Express.js` • `REST APIs` • `JWT Auth` |
 | **Databases** | `MongoDB` • `PostgreSQL` • `Mongoose ORM` |
