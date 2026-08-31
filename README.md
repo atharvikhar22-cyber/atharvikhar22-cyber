@@ -1,155 +1,185 @@
 <div align="center">
 
-  <!-- Minimalist High-Tech Dark Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,100:0d1117&height=220&section=header&text=ATHARV%20IKHAR&fontSize=48&fontColor=58a6ff&stroke=58a6ff&strokeWidth=1&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Software%20Engineer%20%7C%20Python%20%7C%20MERN%20%7C%20GenAI&descFontSize=16&descFontColor=8b949e&descAlignY=60" width="100%" alt="Atharv Ikhar Banner"/>
+  <!-- Fire Dragon Theme Header Banner (Clean Modern Tech Font, No Brush Font) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1c0300,70:3b0a00,100:0a0a0a&height=230&section=header&text=ATHARV%20IKHAR&fontSize=50&fontColor=ff4500&stroke=ff7700&strokeWidth=1&animation=fadeIn&fontAlignY=36&desc=CODE.%20BUILD.%20DEPLOY.%20REPEAT.&descFontSize=14&descFontColor=ffaa00&descAlignY=62" width="100%" alt="Atharv Ikhar Banner"/>
 
   <br/>
 
-  <!-- Dynamic Typing Subtitle from LinkedIn Headline -->
+  <!-- Dynamic Typing Subtitle with Clean Fira Code Font -->
   <a href="https://github.com/atharvikhar22-cyber">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&height=45&lines=Full+Stack+Software+Engineer;Python+%7C+JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Git+%26+GitHub+%7C+Generative+AI;Sant+Gadge+Baba+Amravati+University" width="100%" style="max-width: 650px;" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF4500&center=true&vCenter=true&random=false&width=650&height=45&lines=%3E+Full+Stack+Software+Engineer;%7B+Turning+ideas+into+powerful+digital+experiences.+%7D;Python+%7C+JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Generative+AI+%7C+MERN+Stack+%7C+Cohort+3.0" width="100%" style="max-width: 650px;" alt="Typing Subtitle" />
   </a>
 
   <br/><br/>
 
-  <!-- Professional Connect Badges with Exact LinkedIn Data -->
+  <!-- Fiery Theme Connect Badges -->
   <p align="center">
+    <a href="https://github.com/atharvikhar22-cyber">
+      <img src="https://img.shields.io/badge/GitHub-atharvikhar22--cyber-181717?style=for-the-badge&logo=github&logoColor=ff4500" alt="GitHub"/>
+    </a>
     <a href="https://linkedin.com/in/atharva-ikhar" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Atharv_Ikhar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:atharvikhar22@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-atharvikhar22%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://github.com/atharvikhar22-cyber">
-      <img src="https://img.shields.io/badge/GitHub-atharvikhar22--cyber-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
   </p>
 
-  <!-- Open To Work & Location Badges -->
+  <!-- Fiery Profile View Counter Box -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Status-🟢_Open_to_Work_(Remote_/_Hybrid_/_On--site)-2ea44f?style=flat-square" alt="Open to Work"/>
-    <img src="https://img.shields.io/badge/Location-📍_Wardha,_Maharashtra,_India-58a6ff?style=flat-square" alt="Location"/>
-    <img src="https://komarev.com/ghpvc/?username=atharvikhar22-cyber&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=atharvikhar22-cyber&label=PROFILE%20VIEWS&color=ff4500&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/STATUS-🟢_OPEN_TO_WORK-2ea44f?style=flat-square" alt="Status"/>
   </p>
 
 </div>
 
 ---
 
-### 👨‍💻 Engineering Profile & Overview
+<!-- Information Quick Bar -->
+<div align="center">
 
-```typescript
-interface EngineerProfile {
-  name: string;
-  pronouns: string;
-  role: string;
-  location: string;
-  education: string;
-  email: string;
-  skills: {
-    languages: string[];
-    frontend: string[];
-    backend: string[];
-    database: string[];
-    toolsAndAi: string[];
-  };
-  openToWork: string[];
-}
+| 📍 **LOCATION** | 🎓 **EDUCATION** | ⚡ **CURRENTLY** |
+| :---: | :---: | :---: |
+| `Wardha, Maharashtra, India` | `Sant Gadge Baba Amravati University` | `Building • Learning • Exploring GenAI` |
 
-const atharv: EngineerProfile = {
-  name: "Atharv Ikhar",
-  pronouns: "He/Him",
-  role: "Full Stack Software Engineer",
-  location: "Wardha, Maharashtra, India",
-  education: "Sant Gadge Baba Amravati University, Amravati",
-  email: "atharvikhar22@gmail.com",
-  skills: {
-    languages: ["Python", "JavaScript (ES6+)", "TypeScript", "HTML5", "CSS3"],
-    frontend: ["React.js", "Next.js", "Tailwind CSS", "Redux Toolkit"],
-    backend: ["Node.js", "Express.js", "RESTful APIs", "JWT Auth"],
-    database: ["MongoDB", "Mongoose", "PostgreSQL"],
-    toolsAndAi: ["Generative AI (GenAI)", "Git", "GitHub", "Docker", "VS Code", "Postman"]
-  },
-  openToWork: ["Remote", "Hybrid", "On-site"]
-};
-```
-
-- ⚙️ **Specialization**: Full Stack Software Development specializing in **Python, MERN Stack (React, Node.js, Express, MongoDB)**, and **GenAI integration**.
-- 🎓 **Education**: **Sant Gadge Baba Amravati University, Amravati**.
-- 🚀 **Cohort 3.0 Engineering**: Deep-diving into modern full-stack web engineering, backend microservices, and DevOps automation.
-- 💼 **Career Goal**: Actively seeking **Full Stack Engineer / Software Developer** opportunities (Remote, Hybrid, or On-site).
-- 📬 **Direct Contact**: Reach out via [Email](mailto:atharvikhar22@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/atharva-ikhar).
+</div>
 
 ---
 
-### 🛠️ Technical Stack & Ecosystem
+### 🔥 About Me
+
+```typescript
+interface DeveloperProfile {
+  name: string;
+  role: string;
+  motto: string;
+  passions: string[];
+  currentFocus: string[];
+}
+
+const atharv: DeveloperProfile = {
+  name: "Atharv Ikhar",
+  role: "Full Stack Software Engineer",
+  motto: "I don't just write code, I craft experiences.",
+  passions: [
+    "🔥 Clean Code Advocate",
+    "⚡ Complex Problem Solver",
+    "🐉 Anime & Gaming Enthusiast",
+    "☕ Coffee + Code = Life"
+  ],
+  currentFocus: ["MERN Architecture", "Generative AI", "DevOps & Cloud"]
+};
+```
+
+- 🔥 **Full Stack Developer** with a passion for building scalable web applications and exploring **AI-powered solutions**.
+- 🎓 **Education**: Sant Gadge Baba Amravati University, Amravati.
+- 🚀 **Cohort 3.0**: Deep-diving into modern full-stack web engineering & system design.
+- 💬 **Ask me about**: React, Node.js, Express, MongoDB, Python, GenAI.
+
+---
+
+### 🐉 Skills & Tech Stack
 
 <div align="center">
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> |
-| **Frontend Frameworks** | <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/> |
-| **Backend Engineering** | <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=rest&logoColor=white"/> <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=json-web-tokens&logoColor=white"/> |
-| **Databases & Storage** | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/> |
-| **AI & Developer Tools** | <img src="https://img.shields.io/badge/GenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> |
+| **`</>` LANGUAGES** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> |
+| **`< >` FRONTEND** | <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/> |
+| **`{ }` BACKEND** | <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=rest&logoColor=white"/> <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=json-web-tokens&logoColor=white"/> |
+| **`🗄️` DATABASE** | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/> |
+| **`🛠️` TOOLS** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> |
+| **`🤖` AI / OTHER** | <img src="https://img.shields.io/badge/GenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI_API-00A67E?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Prompt_Eng-ff4500?style=flat-square&logo=fastapi&logoColor=white"/> |
 
 </div>
 
 ---
 
-### 🎓 Education & Professional Highlights
-
-- 🎓 **Sant Gadge Baba Amravati University, Amravati**
-  - *Full Stack Software Engineering & Computer Science Studies*
-- 📜 **Full Stack Development & DevOps (100xDevs — Cohort 3.0)**
-  - *Advanced MERN stack development, API architecture, containerization with Docker, and system design.*
-- 🟢 **Open to Work**: Available for Full-Time, Internship, or Contract roles in **Wardha, Remote, Hybrid, or On-site**.
-
----
-
-### 🚀 Featured Repositories
+### 🚀 Featured Projects
 
 <div align="center">
 
-<p align="center">
-  <a href="https://github.com/atharvikhar22-cyber/AI-ChatBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvikhar22-cyber&repo=AI-ChatBot&theme=tokyonight&show_owner=true" width="100%" style="max-width: 400px;" alt="AI Chatbot"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/atharvikhar22-cyber/Cohort-3.0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvikhar22-cyber&repo=Cohort-3.0&theme=tokyonight&show_owner=true" width="100%" style="max-width: 400px;" alt="Cohort 3.0"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/atharvikhar22-cyber/ImageToTurtleArt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvikhar22-cyber&repo=ImageToTurtleArt&theme=tokyonight&show_owner=true" width="100%" style="max-width: 400px;" alt="Image to Turtle Art"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/atharvikhar22-cyber/atharvikhar22-cyber">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvikhar22-cyber&repo=atharvikhar22-cyber&theme=tokyonight&show_owner=true" width="100%" style="max-width: 400px;" alt="Profile README"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 AI-ChatBot</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MERN-GenAI%20%7C%20LLMs-ff4500?style=flat-square" alt="AI Chatbot"/>
+      </p>
+      <p>AI-powered chatbot application using LLMs and modern responsive UI components.</p>
+      <p align="center">
+        <a href="https://github.com/atharvikhar22-cyber/AI-ChatBot"><b>📁 View Code</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎨 ImageToTurtleArt</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-Turtle%20Graphics-ff7700?style=flat-square" alt="Turtle Art"/>
+      </p>
+      <p>Creative Python tool converting images into turtle graphics vector artwork.</p>
+      <p align="center">
+        <a href="https://github.com/atharvikhar22-cyber/ImageToTurtleArt"><b>📁 View Code</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📚 Cohort-3.0</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Web_Dev-100xDevs-ffaa00?style=flat-square" alt="Cohort"/>
+      </p>
+      <p>Full-stack web engineering, microservices, and backend assignments in Cohort 3.0.</p>
+      <p align="center">
+        <a href="https://github.com/atharvikhar22-cyber/Cohort-3.0"><b>📁 View Code</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Developer Profile</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/GitHub-Profile-ff4500?style=flat-square" alt="Profile"/>
+      </p>
+      <p>Personal Fire & Dragon themed GitHub profile README repository.</p>
+      <p align="center">
+        <a href="https://github.com/atharvikhar22-cyber/atharvikhar22-cyber"><b>📁 View Code</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-### 📊 GitHub Activity Analytics
+### 🔥 Contribution Snake Game
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atharvikhar22-cyber/atharvikhar22-cyber/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atharvikhar22-cyber/atharvikhar22-cyber/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/atharvikhar22-cyber/atharvikhar22-cyber/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+
+  <sub><i>🐉 Feeding on GitHub contributions...</i></sub>
+
+</div>
+
+---
+
+### 📊 GitHub Stats & Fire Streak
 
 <div align="center">
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=atharvikhar22-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" style="max-width: 480px;" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=atharvikhar22-cyber&show_icons=true&bg_color=0d1117&title_color=ff4500&text_color=ff8c00&icon_color=ff4500&border_color=ff3b00&hide_border=false&count_private=true" width="100%" style="max-width: 480px;" alt="GitHub Stats" />
+    &nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvikhar22-cyber&layout=compact&bg_color=0d1117&title_color=ff4500&text_color=ff8c00&icon_color=ff4500&border_color=ff3b00&hide_border=false&hide=html,css" width="100%" style="max-width: 480px;" alt="Top Languages" />
   </p>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvikhar22-cyber&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="100%" style="max-width: 480px;" alt="Top Languages" />
-  </p>
+  <br/>
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvikhar22-cyber&theme=tokyonight&hide_border=true" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvikhar22-cyber&background=0D1117&border=FF3B00&stroke=FF4500&alarm=FF4500&fire=FF4500&ring=FF4500&currStreakNum=FF8C00&sideNums=FF8C00&currStreakLabel=FF4500&sideLabels=FF4500&dates=FF8C00&hide_border=false" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
   </p>
 
 </div>
@@ -169,5 +199,7 @@ const atharv: EngineerProfile = {
 <br/>
 
 <div align="center">
-  <sub>Engineered by <b>Atharv Ikhar</b> • Wardha, Maharashtra, India</sub>
+  <sub>🐉 <b>"I DON'T JUST WRITE CODE, I CRAFT EXPERIENCES."</b> 🐉</sub>
+  <br/>
+  <sub>Engineered for <b>Atharv Ikhar</b> • Wardha, Maharashtra, India</sub>
 </div>
