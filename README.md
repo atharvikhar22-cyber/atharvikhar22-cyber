@@ -1,32 +1,34 @@
 <div align="center">
 
   <!-- Minimalist High-Tech Dark Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,100:0d1117&height=220&section=header&text=ATHARV%20IKHAR&fontSize=48&fontColor=58a6ff&stroke=58a6ff&strokeWidth=1&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Software%20Engineer%20%7C%20MERN%20%26%20Systems%20Developer&descFontSize=16&descFontColor=8b949e&descAlignY=60" width="100%" alt="Atharv Ikhar Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,100:0d1117&height=220&section=header&text=ATHARV%20IKHAR&fontSize=48&fontColor=58a6ff&stroke=58a6ff&strokeWidth=1&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Software%20Engineer%20%7C%20Python%20%7C%20MERN%20%7C%20GenAI&descFontSize=16&descFontColor=8b949e&descAlignY=60" width="100%" alt="Atharv Ikhar Banner"/>
 
   <br/>
 
-  <!-- Typing SVG for Professional Developer Roles -->
+  <!-- Dynamic Typing Subtitle from LinkedIn Headline -->
   <a href="https://github.com/atharvikhar22-cyber">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=45&lines=Full+Stack+Software+Engineer;Specialized+in+React.js%2C+Node.js+%2B+Cloud+Native;Architecting+Scalable+Web+Applications;Cohort+3.0+Full+Stack+%26+DevOps+Engineer" width="100%" style="max-width: 600px;" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&height=45&lines=Full+Stack+Software+Engineer;Python+%7C+JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Git+%26+GitHub+%7C+Generative+AI;Sant+Gadge+Baba+Amravati+University" width="100%" style="max-width: 650px;" alt="Typing Header" />
   </a>
 
   <br/><br/>
 
-  <!-- Clean Professional Badges -->
+  <!-- Professional Connect Badges with Exact LinkedIn Data -->
   <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <a href="https://linkedin.com/in/atharva-ikhar" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Atharv_Ikhar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <a href="mailto:atharvikhar22@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-atharvikhar22%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     <a href="https://github.com/atharvikhar22-cyber">
       <img src="https://img.shields.io/badge/GitHub-atharvikhar22--cyber-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
   </p>
 
-  <!-- Visitor Counter Badge -->
+  <!-- Open To Work & Location Badges -->
   <p align="center">
+    <img src="https://img.shields.io/badge/Status-🟢_Open_to_Work_(Remote_/_Hybrid_/_On--site)-2ea44f?style=flat-square" alt="Open to Work"/>
+    <img src="https://img.shields.io/badge/Location-📍_Wardha,_Maharashtra,_India-58a6ff?style=flat-square" alt="Location"/>
     <img src="https://komarev.com/ghpvc/?username=atharvikhar22-cyber&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
   </p>
 
@@ -37,29 +39,46 @@
 ### 👨‍💻 Engineering Profile & Overview
 
 ```typescript
-interface SoftwareEngineer {
+interface EngineerProfile {
   name: string;
+  pronouns: string;
   role: string;
   location: string;
-  coreStack: string[];
-  architectureFocus: string[];
-  currentGoals: string;
+  education: string;
+  email: string;
+  skills: {
+    languages: string[];
+    frontend: string[];
+    backend: string[];
+    database: string[];
+    toolsAndAi: string[];
+  };
+  openToWork: string[];
 }
 
-const developer: SoftwareEngineer = {
+const atharv: EngineerProfile = {
   name: "Atharv Ikhar",
+  pronouns: "He/Him",
   role: "Full Stack Software Engineer",
-  location: "India",
-  coreStack: ["TypeScript", "JavaScript (ES6+)", "React.js", "Node.js", "Express", "MongoDB"],
-  architectureFocus: ["RESTful Microservices", "Responsive Web Architecture", "State Management", "CI/CD"],
-  currentGoals: "Engineering high-throughput full stack products & scaling backend systems in Cohort 3.0"
+  location: "Wardha, Maharashtra, India",
+  education: "Sant Gadge Baba Amravati University, Amravati",
+  email: "atharvikhar22@gmail.com",
+  skills: {
+    languages: ["Python", "JavaScript (ES6+)", "TypeScript", "HTML5", "CSS3"],
+    frontend: ["React.js", "Next.js", "Tailwind CSS", "Redux Toolkit"],
+    backend: ["Node.js", "Express.js", "RESTful APIs", "JWT Auth"],
+    database: ["MongoDB", "Mongoose", "PostgreSQL"],
+    toolsAndAi: ["Generative AI (GenAI)", "Git", "GitHub", "Docker", "VS Code", "Postman"]
+  },
+  openToWork: ["Remote", "Hybrid", "On-site"]
 };
 ```
 
-- ⚙️ **Core Specialization**: End-to-end full stack web applications engineered with **React, Node.js, Express, and MongoDB**.
-- 📐 **Software Principles**: Clean code architecture, modular design patterns, testable REST APIs, and responsive UI performance.
-- 🚀 **Cohort 3.0 Engineering**: Deep-diving into modern full-stack web engineering, microservices, and DevOps automation.
-- 📬 **Reach Me**: Connect on [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME) or email at `your.email@example.com`.
+- ⚙️ **Specialization**: Full Stack Software Development specializing in **Python, MERN Stack (React, Node.js, Express, MongoDB)**, and **GenAI integration**.
+- 🎓 **Education**: **Sant Gadge Baba Amravati University, Amravati**.
+- 🚀 **Cohort 3.0 Engineering**: Deep-diving into modern full-stack web engineering, backend microservices, and DevOps automation.
+- 💼 **Career Goal**: Actively seeking **Full Stack Engineer / Software Developer** opportunities (Remote, Hybrid, or On-site).
+- 📬 **Direct Contact**: Reach out via [Email](mailto:atharvikhar22@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/atharva-ikhar).
 
 ---
 
@@ -69,27 +88,23 @@ const developer: SoftwareEngineer = {
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> |
 | **Frontend Frameworks** | <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/> |
 | **Backend Engineering** | <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=rest&logoColor=white"/> <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=json-web-tokens&logoColor=white"/> |
 | **Databases & Storage** | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/> |
-| **DevOps & Tooling** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> |
+| **AI & Developer Tools** | <img src="https://img.shields.io/badge/GenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> |
 
 </div>
 
 ---
 
-### 💼 Professional Experience & Credentials *(LinkedIn Highlights)*
+### 🎓 Education & Professional Highlights
 
-#### 🚀 **Full Stack Web Developer** | Open Source & Personal Engineering
-> **Stack**: React.js, Node.js, Express.js, MongoDB, Tailwind CSS, TypeScript
-- 🔸 Built end-to-end full stack web applications with responsive design and robust backend API endpoints.
-- 🔸 Implemented secure authentication flows using **JSON Web Tokens (JWT)** and encrypted password storage.
-- 🔸 Optimized database performance and schema relationships using **MongoDB and Mongoose ORM**.
-
-#### 🎓 **Education & Certifications**
-- 📜 **Cohort 3.0 (100xDevs)** — *Full Stack Development, Web Architecture & DevOps*
-- 🎓 **Bachelor's Degree in Computer Science / IT** — *(Add your University/College)*
+- 🎓 **Sant Gadge Baba Amravati University, Amravati**
+  - *Full Stack Software Engineering & Computer Science Studies*
+- 📜 **Full Stack Development & DevOps (100xDevs — Cohort 3.0)**
+  - *Advanced MERN stack development, API architecture, containerization with Docker, and system design.*
+- 🟢 **Open to Work**: Available for Full-Time, Internship, or Contract roles in **Wardha, Remote, Hybrid, or On-site**.
 
 ---
 
@@ -145,14 +160,14 @@ const developer: SoftwareEngineer = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Atharv_Ikhar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Atharv_Ikhar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-ikhar)
+[![Gmail](https://img.shields.io/badge/Gmail-atharvikhar22%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvikhar22@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-atharvikhar22--cyber-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atharvikhar22-cyber)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
 <br/>
 
 <div align="center">
-  <sub>Engineered by <b>Atharv Ikhar</b> • Professional Software Engineer Profile</sub>
+  <sub>Engineered by <b>Atharv Ikhar</b> • Wardha, Maharashtra, India</sub>
 </div>
